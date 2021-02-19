@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/shindekalpesharun" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shindekalpesharun" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/kalpesh-shinde-9875b7120" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shindekalpesharun" height="22" width="22" /></a>
 
 ### Languages and Tools:
 
@@ -21,11 +21,13 @@
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="dart" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="dart" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="dart" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="dart" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="dart" width="22" height="22"/> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindekalpesharun&layout=compact&hide=html" alt="shindekalpesharun"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shindekalpesharun&show_icons=true" alt="shindekalpesharun"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shindekalpesharun&show_icons=true" alt="shindekalpesharun"/></p>
 
 <!---
 - 👀 I’m interested in ...
